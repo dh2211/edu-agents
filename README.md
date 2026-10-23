@@ -11,7 +11,7 @@ The skills are standards-agnostic. They work with Common Core, NGSS, a state or 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/EduAgentsKit/edu-agents.git
+   git clone https://github.com/dh2211/edu-agents.git
    ```
 
 2. Copy or link the `skills/` folders into the skills folder your agent reads. For Claude Code on macOS or Linux:
